@@ -1,55 +1,57 @@
 {
 
   "ticket_list": [{
-    "id_user": "1",
-    "id_place": "1",
-    "name": "محمد حسن اکبریان",
-    "place_name": "مجموعه شهید چمران",
-    "type": true,
-    "time": "19:42",
-    "date": "97/12/05",
-    "ticket_number": "12688421-15",
-    "time_add": "۱۹:۴۲",
-    "date_add": "۹۷/۱۲/۰۵"
-  } {
+      "id_user": "1",
+      "id_place": "1",
+      "name": "محمد حسن اکبریان",
+      "place_name": "مجموعه شهید چمران",
+      "type": true,
+      "time": "19:42",
+      "date": "97/12/05",
+      "ticket_number": "12688421-15",
+      "time_add": "۱۹:۴۲",
+      "date_add": "۹۷/۱۲/۰۵"
+    },
+    {
+      "id_user": "1",
+      "id_place": "3",
+      "name": "محمد حسن اکبریان",
+      "place_name": "استخر قلهک",
+      "type": true,
+      "time": "19:42",
+      "date": "97/12/05",
+      "ticket_number": "12688421-15",
+      "time_add": "۱۹:۴۷",
+      "date_add": "۹۷/۱۲/۰۵"
 
-    "id_user": "1",
-    "id_place": "3",
-    "name": "محمد حسن اکبریان",
-    "place_name": "استخر قلهک",
-    "type": true,
-    "time": "19:42",
-    "date": "97/12/05",
-    "ticket_number": "12688421-15",
-    "time_add": "۱۹:۴۷",
-    "date_add": "۹۷/۱۲/۰۵"
+    },
+    {
+      "id_user": "1",
+      "id_place": "3",
+      "name": "محمد حسن اکبریان",
+      "place_name": "استخر قلهک",
+      "type": false,
+      "time": "13:48",
+      "date": "97/07/10",
+      "ticket_number": "12688421-15",
+      "time_add": "۱۳:۴۸",
+      "date_add": "۹۷/۱۰/۰۷"
 
-  } {
+    },
+    {
 
-    "id_user": "1",
-    "id_place": "3",
-    "name": "محمد حسن اکبریان",
-    "place_name": "استخر قلهک",
-    "type": false,
-    "time": "13:48",
-    "date": "97/07/10",
-    "ticket_number": "12688421-15",
-    "time_add": "۱۳:۴۸",
-    "date_add": "۹۷/۱۰/۰۷"
+      "id_user": "1",
+      "id_place": "1",
+      "name": "محمد حسن اکبریان",
+      "place_name": "مجموعه شهید چمران",
+      "type": false,
+      "time": "18:32",
+      "date": "97/07/07",
+      "ticket_number": "12688421-15",
+      "time_add": "۱۸:۳۲",
+      "date_add": "۹۷/۰۷/۱۰"
 
-  } {
-
-    "id_user": "1",
-    "id_place": "1",
-    "name": "محمد حسن اکبریان",
-    "place_name": "مجموعه شهید چمران",
-    "type": false,
-    "time": "18:32",
-    "date": "97/07/07",
-    "ticket_number": "12688421-15",
-    "time_add": "۱۸:۳۲",
-    "date_add": "۹۷/۰۷/۱۰"
-
-  }]
+    }
+  ]
 
 }
